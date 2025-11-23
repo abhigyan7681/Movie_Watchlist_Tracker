@@ -83,5 +83,15 @@ Select option 3.
 
 Expected Output: The program prints Goodbye! and terminates.
 
+# Screenshot
+
+<img width="1004" height="358" alt="image" src="https://github.com/user-attachments/assets/67632dbf-814a-448b-a9e3-6acb7f5e7921" />
+
+<img width="906" height="516" alt="image" src="https://github.com/user-attachments/assets/50185b10-7828-4301-ba22-381651b58ebd" />
+
+<img width="1058" height="269" alt="image" src="https://github.com/user-attachments/assets/edc127b8-5589-4494-81eb-fcc37437a69a" />
+
+
+
 
 
